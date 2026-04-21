@@ -1,0 +1,16 @@
+{
+  "name": "smart-diary-backend",
+  "version": "1.0.0",
+  "description": "Emotion classification server for Smart Diary — proxies text to local Ollama Gemma 2 2B model.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
