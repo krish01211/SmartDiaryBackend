@@ -19,7 +19,7 @@ Express Server  :3007  (this server, running on your local laptop)
     | POST /api/generate  { model, prompt, stream: false }
     |
     v
-Ollama  :11434  (local AI runtime)
+Ollama  :11435 (local AI runtime)
     |
     v
 gemma2:2b  (local LLM model)
